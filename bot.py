@@ -17,7 +17,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = int(os.getenv("ADMIN_ID"))
 
 # Определение версии бота
-BOT_VERSION = "2.00"
+BOT_VERSION = "2.01"
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, filename='bot.log', filemode='a',
@@ -286,7 +286,7 @@ async def view_tickets(callback_query: types.CallbackQuery):
 @dp.message(F.text == "О боте")
 async def about_bot(message: types.Message):
     await message.answer(
-        f"Бот по отправке уведомлений о новом контенте и/или его исправлении на https://downwardspiral.gitbook.io/main.\n\n"
+        f"Бот по отправке уведомлений о новом контенте и/или его исправлении на https://docs.basted.ru.\n\n"
         f"Версия бота: {BOT_VERSION}"
     )
 
