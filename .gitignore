@@ -1,4 +1,7 @@
 .venv
 .env
 original
-bot.log
+backups
+log
+*.db
+*.log
