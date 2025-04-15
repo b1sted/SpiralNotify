@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/b1sted/SpiralNotify/blob/dev/.github/assets/logo.png" width="160" alt="SpiralNotify">
+  <img src="https://github.com/b1sted/SpiralNotify/blob/main/.github/assets/logo.png" width="160" alt="SpiralNotify">
   <br>
     SpiralNotify
   <br>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/b1sted/SpiralNotify/blob/dev/.github/assets/screenshot.png" width="700" />
+  <img src="https://github.com/b1sted/SpiralNotify/blob/main/.github/assets/screenshot.png" width="700" />
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@
   <a href="#features">Features</a> •
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
-  <a href="#configuration-">Configuration</a> •
-  <a href="#running-the-bot-">Running</a> •
+  <a href="#configuration-%EF%B8%8F">Configuration</a> •
+  <a href="#running-the-bot-%EF%B8%8F">Running</a> •
   <a href="#usage">Usage</a> •
   <a href="#logging-">Logging</a> •
   <a href="#backups-">Backups</a> •
